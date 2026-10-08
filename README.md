@@ -16,7 +16,7 @@ spec → tickets → delegated implementation (OpenCode, Antigravity/Gemini, Cla
 
 Most of these are private while I clean them up; ask me for a walkthrough.
 
-**Before** — Software Engineer (founding team) at URP (Jul–Oct 2026): web app and server of an AI-assisted exam-prep service; built ink2tex, a handwritten-math → LaTeX module (0.97 audited accuracy vs 0.66 whole-page baseline).
+**Before** — Backend Engineer (founding team) at URP (Jul–Oct 2026): web app and server of an AI-assisted exam-prep service; built ink2tex, a handwritten-math → LaTeX module (0.97 audited accuracy vs 0.66 whole-page baseline).
 
 Computer Engineering, Hongik University (2024).
 
